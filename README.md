@@ -6,7 +6,9 @@ Sou um desenvolvedor de software apaixonado por tecnologia, com foco em desenvol
 
 ## 👨‍💻 Sobre Mim
 
-🔭 Atualmente desenvolvendo sistemas próprios e projetos freelancers.
+💼 Atualmente atuo como Técnico de Informática na empresa Faiston, prestando serviços para a Klabin em suas duas unidades em Paranaguá.
+
+🔭 Também desenvolvo sistemas próprios e projetos freelancers.
 
 🌱 Aprimorando conhecimentos em arquiteturas modernas, Flutter, React e integrações backend.
 
