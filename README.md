@@ -1,27 +1,83 @@
-<h1 align="center">
-🚀 Meu Portfólio
-</h1>
+# Olá! Eu sou o Gabriel Machado 👋
 
-<p align="center">
-<a href="https://portfolio-25wd0w9vy-gabriel-machado-francas-projects.vercel.app">
-👉 Acessar Portfólio
-</a>
-</p>
+Sou um desenvolvedor de software apaixonado por tecnologia, com foco em desenvolvimento mobile e web. Tenho experiência criando aplicações completas, desde o frontend até integrações backend, sempre buscando performance, usabilidade e soluções inovadoras.
 
 ---
 
-### 👨‍💻 Sobre mim
+## 👨‍💻 Sobre Mim
 
-Técnico de Informática • Analista de Sistemas • Desenvolvedor Full Stack
+🔭 Atualmente desenvolvendo sistemas próprios e projetos freelancers.
 
-💼 Projetos reais  
-📱 Apps mobile  
-☁️ Cloud integrado  
+🌱 Aprimorando conhecimentos em arquiteturas modernas, Flutter, React e integrações backend.
+
+👯 Buscando colaborar em projetos mobile, web e startups SaaS.
+
+💬 Me pergunte sobre: Flutter, React, Laravel, APIs REST, MySQL e UX Mobile.
+
+📫 Como me encontrar:  
+LinkedIn: www.linkedin.com/in/gabriel-machadof29  
+Email: gamafran@outlook.com
 
 ---
 
-### 🌐 Links
+## 🛠️ Minhas Habilidades (Tech Stack)
 
-- Portfólio: https://portfolio-25wd0w9vy-gabriel-machado-francas-projects.vercel.app
-- LinkedIn: www.linkedin.com/in/gabriel-machadof29
-- GitHub: https://github.com/gabeemachado29
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🏥 AppMed — Sistema de Gestão Médica Mobile
+
+Aplicação mobile desenvolvida em Flutter com foco em agendamentos, histórico de consultas e evolução de pacientes.
+
+O sistema permite:
+
+- 📅 Marcação de consultas em calendário
+- 🧾 Histórico completo do paciente
+- 📊 Quadro de evolução médica
+- 🔔 Lembretes e organização clínica
+
+**Tecnologias:** Flutter • Firebase/API • UI Mobile
+
+---
+
+### 💼 Fast Work — Plataforma de Serviços
+
+Plataforma web para conectar trabalhadores informais a empregadores.
+
+O sistema permite:
+
+- 📢 Publicação de serviços
+- 🤝 Aceite de trabalhos
+- ⭐ Avaliações e reputação
+- 📍 Busca por localização
+
+**Tecnologias:** Laravel • PHP • MySQL • Bootstrap
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabeemachado29&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabeemachado29&layout=compact&theme=tokyonight)
+
+---
+
+## 📞 Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-machadof29)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamafran@outlook.com)
+
+---
+
+⭐ Sempre aberto a novas oportunidades e parcerias.
