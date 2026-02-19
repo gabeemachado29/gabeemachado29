@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<a href="https://gabeemachado29.github.io">
+<a href="https://portfolio-25wd0w9vy-gabriel-machado-francas-projects.vercel.app">
 👉 Acessar Portfólio
 </a>
 </p>
