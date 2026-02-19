@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">
+🚀 Meu Portfólio
+</h1>
 
-<!--
-**gabeemachado29/gabeemachado29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://gabeemachado29.github.io">
+👉 Acessar Portfólio
+</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+Técnico de Informática • Analista de Sistemas • Desenvolvedor Full Stack
+
+💼 Projetos reais  
+📱 Apps mobile  
+☁️ Cloud integrado  
+
+---
+
+### 🌐 Links
+
+- Portfólio: https://gabeemachado29.github.io
+- LinkedIn: www.linkedin.com/in/gabriel-machadof29
+- GitHub: https://github.com/gabeemachado29
